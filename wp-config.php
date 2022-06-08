@@ -78,7 +78,7 @@ define('DB_PASSWORD',getenv('DB_PASSWORD'));
 define('DB_HOST',getenv('DB_HOST'));
 define('DB_CHARSET','utf8');
 define('DB_COLLATE','');
-define('AUTH_KEY',getenv('AUTH_KEY));
+define('AUTH_KEY',getenv('AUTH_KEY'));
 define('SECURE_AUTH_KEY',getenv('SECURE_AUTH_KEY'));
 define('LOGGED_IN_KEY',getenv('LOGGED_IN_KEY'));
 define('NONCE_KEY',getenv('NONCE_KEY'));
